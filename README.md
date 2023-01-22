@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 
 # Kodluyoruz İlk Repo
@@ -52,7 +52,4 @@ Pull requestler kabul edilir.Büyük değişiklikler için lütfen önce neyi de
 
 [MIT](https://opensource.org/licenses/MIT)
 
-=======
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
->>>>>>> parent of 3aa8964 (README degisim)
+
